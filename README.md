@@ -31,6 +31,5 @@ I'm a passionate **Full-Stack Web Developer** and **eCommerce Specialist** with 
 ## 📫 Contact Me
 
 - Email: ashokchandel44@gmail.com 
-- Portfolio: https://travelwithanki.com/portfolio/
 
 Thanks for stopping by!
